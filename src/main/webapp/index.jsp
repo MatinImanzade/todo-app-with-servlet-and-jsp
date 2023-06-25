@@ -17,33 +17,39 @@
 <body>
 <%@include file="component/navbar.jsp" %>
 <h1 class="text-center text-success">TODO - APP</h1>
-
+<% String sucMsg = (String) session.getAttribute("sucMsg");
+    if (sucMsg != null){
+%>
+<div class="alert alert-success" role="alert">
+   <%=sucMsg%>
+</div>
+   <% } %>
 <div class="container">
 
     <table class="table table-striped" style="border: 1px">
 
-            <thead class="bg-success text-white">
-            <tr>
-                <th scope="col">ID</th>
-                <th scope="col">Name</th>
-                <th scope="col">ToDo</th>
-                <th scope="col">Status</th>
-                <th scope="col">Action</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <th scope="row">1</th>
-                <td>Matin</td>
-                <td>Java Tutorial</td>
-                <td>Pending</td>
-                <td>
-                    <a href="" class="btn btn-sm btn-success">Edit</a>
-                    <a href="" class="btn btn-sm btn-danger">Delete</a>
-                </td>
-            </tr>
-            </tbody>
-        </table>
+        <thead class="bg-success text-white">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">ToDo</th>
+            <th scope="col">Status</th>
+            <th scope="col">Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Matin</td>
+            <td>Java Tutorial</td>
+            <td>Pending</td>
+            <td>
+                <a href="" class="btn btn-sm btn-success">Edit</a>
+                <a href="" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 
 
 </div>

@@ -5,11 +5,11 @@ import az.todo.dao.inter.TodoDAOInter;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 
-public class TodoDAO implements TodoDAOInter {
+public class TodoDAOImpl implements TodoDAOInter {
 
     private Connection connection;
 
-    public TodoDAO(Connection connection){
+    public TodoDAOImpl(Connection connection){
         super();
         this.connection = connection;
     }

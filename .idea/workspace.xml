@@ -10,17 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b56479-125f-4d37-a0d0-5d9e3130cb03" name="Changes" comment="commit success">
-      <change afterPath="$PROJECT_DIR$/src/main/java/az/todo/dao/impl/TodoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/az/todo/dao/inter/TodoDAOInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/az/todo/db/DBConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/az/todo/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/az/todo/servlet/AddServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/add_todo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/component/navbar.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/component/all_css.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/component/all_css.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/todo/dao/impl/TodoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/todo/dao/impl/TodoDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/todo/servlet/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/todo/servlet/AddServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,6 +176,15 @@
       <workItem from="1683537833828" duration="13435000" />
       <workItem from="1683726574766" duration="58000" />
       <workItem from="1683796095538" duration="940000" />
+      <workItem from="1683969340153" duration="4412000" />
+      <workItem from="1684422442076" duration="685000" />
+      <workItem from="1684480743024" duration="1164000" />
+      <workItem from="1684489951297" duration="2802000" />
+      <workItem from="1684500097629" duration="9000" />
+      <workItem from="1684500668574" duration="68000" />
+      <workItem from="1684500752543" duration="600000" />
+      <workItem from="1684503553220" duration="6000" />
+      <workItem from="1687683274295" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="commit success">
       <created>1683388973478</created>
@@ -192,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683388973478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit success">
+      <created>1683969598295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683969598295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
