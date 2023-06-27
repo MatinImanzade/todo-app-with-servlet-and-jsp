@@ -11,9 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44b56479-125f-4d37-a0d0-5d9e3130cb03" name="Changes" comment="commit success">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/todo/dao/impl/TodoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/todo/dao/impl/TodoDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/todo/servlet/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/todo/servlet/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +181,8 @@
       <workItem from="1684500668574" duration="68000" />
       <workItem from="1684500752543" duration="600000" />
       <workItem from="1684503553220" duration="6000" />
-      <workItem from="1687683274295" duration="624000" />
+      <workItem from="1687683274295" duration="1343000" />
+      <workItem from="1687859460315" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="commit success">
       <created>1683388973478</created>
@@ -200,11 +198,29 @@
       <option name="project" value="LOCAL" />
       <updated>1683969598295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit success">
+      <created>1687693790434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687693790434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit success" />
