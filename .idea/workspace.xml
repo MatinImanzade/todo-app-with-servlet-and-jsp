@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b56479-125f-4d37-a0d0-5d9e3130cb03" name="Changes" comment="commit success">
+    <list default="true" id="44b56479-125f-4d37-a0d0-5d9e3130cb03" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,19 @@
         <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="60402b78-c541-4f4b-85aa-6b95937e4a54" />
+        <option name="url" value="https://github.com/matinimanzada/ToDo-App.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="LogFilters">
@@ -183,6 +196,9 @@
       <workItem from="1684503553220" duration="6000" />
       <workItem from="1687683274295" duration="1343000" />
       <workItem from="1687859460315" duration="592000" />
+      <workItem from="1687861282472" duration="644000" />
+      <workItem from="1688449437763" duration="19000" />
+      <workItem from="1688539969218" duration="1185000" />
     </task>
     <task id="LOCAL-00001" summary="commit success">
       <created>1683388973478</created>
@@ -205,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687693790434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1687861298002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687861298002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +247,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit success" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit success" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
